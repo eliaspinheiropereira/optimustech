@@ -1,0 +1,10 @@
+@import url(./variaveis.css);
+@import url(./cabecalho.css);
+@import url(./sobrenos.css);
+@import url(./numeros.css);
+
+body{
+    background-color: var(--branco);
+    font-size: 16p;
+    font-family: var(--inter);
+}

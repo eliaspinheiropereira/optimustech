@@ -1,0 +1,30 @@
+.numeros{
+    padding: 0 6em;
+    font-family: var(--inter);
+    margin-bottom: 6em;
+}
+
+.numeros__lista{
+    display: flex;
+    justify-content: space-between;
+}
+
+.numeros__titulos{
+    color: var(--marrom);
+    font-size: 3.75em;
+    font-weight: 600;
+}
+
+.numeros__descricao-primaria{
+    font-size: 1.125em;
+    font-weight: 500;
+    color: var(--preto-sobrenos);
+    margin: 1em 0 .5em 0;
+}
+
+.numeros__descricao-secundaria{
+    font-size: 1em;
+    font-weight: 400;
+    color: var(--cinza);
+    width: 17.5em;
+}
