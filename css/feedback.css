@@ -1,0 +1,40 @@
+.feedback{
+    /* background-image: linear-gradient(to right, var(--marrom-fundo), transparent); */
+    text-align: center;
+    width: 90%;
+    padding: 4em;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.feedback__titulo{
+    color: var(--marrom);
+    font-size: 1em;
+    font-weight: 600;    
+}
+
+.feedback__titulo-secundario{
+    font-size: 2.25em;
+    font-weight: 500;
+    color: var(--preto-sobrenos);
+    width: 60%;
+    margin: 1em 0;
+}
+
+.feedback__colaborador{
+    text-align: center;
+    text-transform: capitalize;
+    color: var(--preto-sobrenos);
+    padding-bottom: 10em;
+}
+
+.name{
+    font-size: 1em;
+    margin: .5em 0;
+}
+
+.profissao{
+    color: var(--cinza);
+    font-size: 0.875em;
+}

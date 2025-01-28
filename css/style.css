@@ -2,6 +2,9 @@
 @import url(./cabecalho.css);
 @import url(./sobrenos.css);
 @import url(./numeros.css);
+@import url(./vagas.css);
+@import url(./feedback.css);
+@import url(./rodape.css);
 
 body{
     background-color: var(--branco);
